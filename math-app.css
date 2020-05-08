@@ -1,0 +1,109 @@
+*{
+  box-sizing: border-box;
+}
+
+
+.box1{
+  height:20px;
+  max-width:900px;
+}
+
+.heading{
+float:right;
+
+}
+
+.heading a{
+  color:black;
+  display:inline-block;
+  font-weight:lighter;
+  margin-right:10px;
+}
+.box2{
+  background-color:#7b68ee;
+  max-width:900px;
+  padding-bottom:5px;
+}
+
+.midasi{
+  writing-mode: vertical-rl;
+  position:relative;
+  color:white;
+  font-weight:lighter;
+  opacity:0.8;
+}
+.midasi2{
+  position:absolute;
+  top:101px;
+  left:70px;
+  color:white;
+  font-weight:lighter;
+  opacity:0.8;
+}
+.midasi-color{
+  color:sandybrown;
+}
+
+.moji{
+  float:left
+}
+.diagram1{
+  float:right;
+}
+.clear{
+  clear:left;
+}
+.diagram2{
+  padding-right:20px;
+}
+.list{
+
+  float:left;
+  margin-right:30px;
+  box-shadow:-3px 3px #668AD8;
+  color:white;
+  font-weight:lighter;
+
+}
+.list h3{
+  text-align:center;
+  height:10px;
+  margin-top:7px;
+  font-weight:lighter;
+}
+.top1{
+  margin-bottom:10px;
+  margin-top:5px;
+}
+
+.right{
+  background-color:tomato;
+  width:220px;
+  position:relative;
+
+}
+.circle2{
+  position:absolute;
+  top:65px;
+  left:140px;
+}
+.left{
+  background-color:royalblue;
+  width:220px;
+}
+.list-left{
+  float:left;
+}
+.diagram3{
+  float:right;
+  margin-right:20px;
+  margin-top:30px;
+}
+
+.top2{
+  padding-left:120px
+}
+
+.left h3{
+  margin-bottom:5px;
+}
