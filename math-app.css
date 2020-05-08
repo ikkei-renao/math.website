@@ -109,7 +109,7 @@ float:right;
 }
 
 @media(max-width:600px){
- 
+ .top2{
   padding-left:0px;
-  
+  }
 }
